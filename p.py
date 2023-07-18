@@ -8,8 +8,8 @@ import time
 # Define email credentials and settings
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-sender_email = 'bencheikh.chiheb@gmail.com'
-password = 'hopxcgmlqmtcvuep'
+sender_email = 'sender_mail'
+password = 'sender_pass'
 
 # Create a function to send an email
 def send_email(recipient_email):
